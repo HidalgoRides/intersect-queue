@@ -52,3 +52,6 @@ $queueManager->run();
 ```
 * * * * * php /path/to/queue/manager/script.php >> /dev/null 2>&1
 ```
+
+## License
+Intersect Framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
